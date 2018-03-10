@@ -10,5 +10,4 @@ License
 MIT
 
 [@ostjh]:https://twitter.com/ostjh
-[Little Professor]:https://en.wikipedia.org/wiki/Little_Professor
-[DEMO]:https://binaryfun-zbhzgghplj.now.sh/
+[DEMO]:https://binaryfun.now.sh
