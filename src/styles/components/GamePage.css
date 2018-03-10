@@ -1,0 +1,71 @@
+.counter {
+    text-align: center;
+	width: 100%;
+	box-sizing : border-box;
+	padding: 5px;
+    font-size: 2.5em;
+}
+
+.button__inline {
+	display: inline-block;
+	margin-right: 10px;
+    width: 40%;
+    box-sizing : border-box;
+}
+
+.buttons {
+    margin-left: 10%;
+    width: 100%;
+	box-sizing : border-box;
+}
+
+.grid {
+    box-sizing : border-box;
+    width: 100%;
+    padding: 15px;
+}
+
+.rows {
+    width: 100%;
+    box-sizing : border-box;
+    display: flex;
+    justify-content: space-between;
+    height: 20%;
+    margin-top: 5px;
+}
+
+.wrapper_button {
+    padding-top: 12px;
+    text-align: center;
+    box-sizing : border-box;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: none;
+    font-weight: normal;
+}
+
+.grid_6x6 {
+	height: 40px;
+    margin: 0px;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: 1.2em;
+    padding: 7px;
+}
+
+.grid_8x8 {
+    height: 35px;
+    margin: 0px;
+    margin-right: 1px;
+    margin-left: 1px;
+    padding: 7px;
+}
+
+@media only screen and (max-width: 450px) {
+    .grid_8x8 {
+        width: 35px;
+        font-size: 0.7em;
+        padding: 0px;
+        padding-top: 10px;
+    }
+}
