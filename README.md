@@ -6,19 +6,19 @@ Inspirado en el juego [Binary Fun] la actividad busca afianzar el aprendizaje de
 
 ![image](https://github.com/Jorger/binary_fun_reactjs/blob/master/Binary_fun.gif?raw=true)
 
-El objetivo del juego es la de realizar operaciones con binarios, se entrega el resultado de este tanto de forma horizontal como de forma vertical, el usuario debera establecer los valores necesario en binario para obtener el resultado.
+El objetivo del juego es la de realizar operaciones con binarios, se entrega el resultado de este tanto de forma horizontal como de forma vertical, el usuario deberá establecer los valores necesario en binario para obtener el resultado.
 
 Existen tres modos de juego:
 
 * **Easy:** El cual presenta una grilla de 4x4
-* **Medium:** Presnetauna grilla de 6x6
+* **Medium:** Presenta una grilla de 6x6
 * **Hard:** Una grilla de 8x8
 
 Si el usaurio no puede resolver el ejercio tendrá la oportunidad de ver el resultado del mismo.
 
 ## Tecnología.
 
-Se ha hecho uso de [create-react-app] el cual provee una forma rápida de iniciar con React, sin la necesidad de establecer algún tipo de configuración, por defecto las aplicaciones desarrolladas con [create-react-app] ofrece la posibilidad de hacer uso de [service-workers], lo que a la poster ofrece la posibilidad de funcionamiento offline.
+Se ha hecho uso de [create-react-app] el cual provee una forma rápida de iniciar con React, sin la necesidad de establecer algún tipo de configuración, por defecto las aplicaciones desarrolladas con [create-react-app] ofrece la posibilidad de hacer uso de [service-workers], lo que a la postre ofrece la posibilidad de funcionamiento offline.
 
 Otras librera utilizadas ha sido [React Router] así como [SweetAlert]
 
